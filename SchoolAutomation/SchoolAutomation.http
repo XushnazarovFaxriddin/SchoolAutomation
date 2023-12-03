@@ -1,0 +1,6 @@
+@SchoolAutomation_HostAddress = http://localhost:5225
+
+GET {{SchoolAutomation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
